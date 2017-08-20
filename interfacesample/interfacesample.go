@@ -1,3 +1,4 @@
+// From Go In Action - Manning Publications
 // Sample program to show how to use an interface in Go.
 package main
 

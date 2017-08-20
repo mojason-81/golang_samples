@@ -1,3 +1,4 @@
+// From Go In Action - Manning Publications
 // Declares a single function that
 // takes a quoted string as a path to a file,
 // counts the words in that file, and outputs

@@ -1,3 +1,4 @@
+// From Go In Action - Manning Publications
 // Sample program to show how a bytes.Buffer can also be
 // used with the io.Copy function.
 package main

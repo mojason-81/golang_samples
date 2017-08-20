@@ -1,3 +1,4 @@
+// From Go In Action - Manning Publications
 // Sample program to show how to write a simple version of curl
 // using the io.Reader and io.Writer interface support.
 package main
