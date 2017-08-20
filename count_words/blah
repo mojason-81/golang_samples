@@ -1,0 +1,5 @@
+// Declares a single function that
+// takes a quoted string as a path to a file,
+// counts the words in that file, and outputs
+// to the user the number of words.
+package main
